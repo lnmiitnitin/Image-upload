@@ -147,7 +147,7 @@ class UploadImagesView(View):
 	urls = self.request.POST.get('urls','')
 	
 	urls = eval(urls)
-        urls = set(urls)
+	urls = set(urls)
 	urls = list(urls)
 	child_id_list = []
 	if urls:
