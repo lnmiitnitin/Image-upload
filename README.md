@@ -1,4 +1,4 @@
-# Image-upload API
+# Image Upload API
  1. create virualenv inside image_api folder.
  2. Install requirements as mentioned in the requirements.txt
  3. start redis on server with host_name=127.0.0.1 and port=6379
