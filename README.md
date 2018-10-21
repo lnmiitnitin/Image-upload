@@ -13,7 +13,7 @@
  Test Api
     1. upload images api
        ```
-       http://127.0.0.1:8000/api/v1/images/upload/
+       [http://127.0.0.1:8000/api/v1/images/upload/]
        ```
     2. job status of upload api
        ```
