@@ -1,0 +1,5 @@
+django-rest
+django
+django-celery
+requests
+redis
