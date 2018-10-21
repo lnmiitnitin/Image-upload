@@ -10,16 +10,16 @@
       ```python
          python manage.py runserver
        ```
- Test Api
+ Test Api.
     1. upload images api.
        
-       >[http://127.0.0.1:8000/api/v1/images/upload/]
+       > [http://127.0.0.1:8000/api/v1/images/upload/]
        
     2. job status of upload api.
        
-       >http://127.0.0.1:8000/api/v1/images/upload/94a074e4-e354-4dbb-82c9-e3c851b98299
+       > http://127.0.0.1:8000/api/v1/images/upload/94a074e4-e354-4dbb-82c9-e3c851b98299
        
     3. Get all uploaded images.
        
-       >http://127.0.0.1:8000/api/v1/images
+       > http://127.0.0.1:8000/api/v1/images
       
