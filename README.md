@@ -10,6 +10,10 @@
       ```python
          python manage.py runserver
        ```
+ 6. Few assumptions made while developing solution
+    1. If single url fail to upload then send original url in response as new url is not available till upload is done
+    2. Redis is used to store metadata
+    
  # Test Api.
  1. upload images api.
     http://127.0.0.1:8000/api/v1/images/upload/
